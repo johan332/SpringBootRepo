@@ -1,0 +1,1 @@
+insert into Employee values(1, 'IT', 'Johan', 'Joe', '2021-10-15');
